@@ -1,0 +1,16 @@
+apache-airflow-providers-google
+apache-airflow-providers-postgres
+psycopg2-binary
+pandas 
+pyarrow
+google-cloud-storage
+avro-python3
+google-auth
+oauth2client
+apache-airflow-providers-http
+apache-airflow-providers-ftp
+pytest
+pytest-airflow
+sqlalchemy
+cryptography
+apache-airflow-providers-ssh
